@@ -22,13 +22,13 @@ Vamos separar em dois grupos
 
 ## Container
 
--Display: grid;
--Grid-tamplate-columns;
--Grid-tamplate-rows;
--Grid-gap;
-    -Grid-row-gap;
-    -Grid-column-gap;
--Grid-tamplate-areas;
+1. display: grid;
+2. grid-tamplate-columns;
+3. grid-tamplate-rows;
+4. grid-gap;
+    4.1 grid-row-gap;
+    4.2 grid-column-gap;
+5. grid-tamplate-areas;
 
 ## Grid: alinhamento
 ---
